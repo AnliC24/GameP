@@ -134,4 +134,7 @@ public class AdminComUserControl extends ControlBase{
 		return queryAllComUserInfo(request);
 	 }
 	 
+	 
+	 
+	 
 }
