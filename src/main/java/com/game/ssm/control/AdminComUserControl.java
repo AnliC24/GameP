@@ -25,6 +25,8 @@ public class AdminComUserControl extends ControlBase{
    
 	 @Autowired
 	 private AdminOpServiceImpl adminOpServiceImpl;
+	 
+	 
 	/**
 	  * @author c.~
 	  * @time 2018/11/19 8:45
